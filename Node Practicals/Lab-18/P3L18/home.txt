@@ -1,0 +1,2 @@
+<h1>Home Text Page.</h1>
+<h3>it has home data.</h3>
